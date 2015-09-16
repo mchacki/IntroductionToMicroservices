@@ -1,0 +1,28 @@
+{
+  "name": "messageService",
+  "version": "1.0.0",
+  "description": "The message service for Introduction to Microservices Training",
+  "author": "Michael Hackstein",
+  "license": "Apache 2 License",
+
+  "contributors": [
+    {
+      "name": "Michael Hackstein",
+      "email": "michael@arangodb.org"
+    }
+  ],
+
+  "engines": {
+    "arangodb": "^2.6.0"
+  },
+
+  "controllers": {
+    "/": "index.js"
+  },
+
+  "defaultDocument": "",
+
+  "scripts": {
+    "setup": "setup.js"
+  }
+}
