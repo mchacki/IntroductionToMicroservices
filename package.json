@@ -1,0 +1,19 @@
+{
+  "name": "Introduction_to_Microservices",
+  "version": "1.0.0",
+  "description": "Example Code for the Workshop Introduction to Microservices",
+  "author": "Michael Hackstein",
+  "license": "Apache 2",
+  "dependencies": {
+    "boom": "^2.8.0",
+    "chai": "^3.2.0",
+    "hapi": "^10.0.0",
+    "mocha": "^2.3.2",
+    "request": "^2.62.0",
+    "supertest": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arangodb/arangodb.git"
+  }
+}
